@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/duck-strikes-react-game/static/css/main.1f264d59.css",
+    "main.js": "/duck-strikes-react-game/static/js/main.8bf42994.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/duck-strikes-react-game/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/background.png": "/duck-strikes-react-game/static/media/background.f685d6083116220787d6.png",
+    "static/media/projectile-black-hole.png": "/duck-strikes-react-game/static/media/projectile-black-hole.2c63de6a3d2e7380153d.png",
+    "static/media/enemy.png": "/duck-strikes-react-game/static/media/enemy.5e2a440ee6ea5445580c.png",
+    "static/media/DuckyPlayer.png": "/duck-strikes-react-game/static/media/DuckyPlayer.3fc5eafd08f7c6bfce05.png",
+    "static/media/GameForeground.png": "/duck-strikes-react-game/static/media/GameForeground.19442e7b5b4531ff0eae.png",
+    "static/media/gameTitle.png": "/duck-strikes-react-game/static/media/gameTitle.af077d8a0356cd6a6c40.png",
+    "static/media/createamap.png": "/duck-strikes-react-game/static/media/createamap.9238a9222a574861d8fe.png",
+    "static/media/playagame.png": "/duck-strikes-react-game/static/media/playagame.f37da61a938da742863e.png",
+    "static/media/wall2.png": "/duck-strikes-react-game/static/media/wall2.dd6940646a589ccd7907.png",
+    "static/media/home.png": "/duck-strikes-react-game/static/media/home.7776c89b2c3031208a24.png",
+    "index.html": "/duck-strikes-react-game/index.html",
+    "main.1f264d59.css.map": "/duck-strikes-react-game/static/css/main.1f264d59.css.map",
+    "main.8bf42994.js.map": "/duck-strikes-react-game/static/js/main.8bf42994.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/duck-strikes-react-game/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f264d59.css",
+    "static/js/main.8bf42994.js"
+  ]
+}
